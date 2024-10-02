@@ -1,0 +1,16 @@
+.header, .hero, .body, .five_c, .footer{
+    background-color: bisque;
+    margin-bottom: 10px;
+}
+.box{
+    margin: 10px 0;
+    min-height: 80px;
+    background-color: aquamarine;
+    font-size: 30px;
+}
+.red{
+    background-color: lime;
+}
+.five{
+    background-color: rgb(148, 148, 231);
+}
